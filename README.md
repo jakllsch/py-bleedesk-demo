@@ -1,2 +1,2 @@
 # py-bleedesk-demo
-demo to control electric desk via pygatt and BLE
+Monitor and control Jiecang-based electric sit/stand desk via BLE with pygatt.
